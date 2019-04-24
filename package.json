@@ -1,0 +1,12 @@
+{
+  "name": "ui-events",
+  "version": "1.0.0",
+  "description": "This package contains the events consumed by the Iridium.Shell client application.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "compile": "rm -rf ./dist && tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}
