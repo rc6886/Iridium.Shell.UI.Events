@@ -1,5 +1,5 @@
 {
-  "name": "ui-events",
+  "name": "@gsfs_personal/ui-events",
   "version": "1.0.0",
   "description": "This package contains the events consumed by the Iridium.Shell client application.",
   "main": "dist/index.js",
@@ -8,5 +8,13 @@
     "compile": "rm -rf ./dist && tsc"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rc6886/Iridium.Shell.UI.Events.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rc6886/Iridium.Shell.UI.Events/issues"
+  },
+  "homepage": "https://github.com/rc6886/Iridium.Shell.UI.Events#readme"
 }
